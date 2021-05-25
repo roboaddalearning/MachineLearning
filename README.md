@@ -1,2 +1,2 @@
-# MavhineLearning
+# MachineLearning
 code for practice
